@@ -5,6 +5,8 @@ import java.lang.ref.SoftReference;
 /**
  * @author tangqiuyue
  * @author 2022/8/30
+ * -Xms20M -Xmx20M
+ * 软引用特别适合缓存
  */
 public class T02_SoftReferenceTest {
 
